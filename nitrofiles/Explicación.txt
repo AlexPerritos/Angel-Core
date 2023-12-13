@@ -1,0 +1,7 @@
+Stock --> Almacen de archivos del juego que no han sido usado o han servido de base para la creación del arte, sonido y texto.
+test --> archivos de prueba para la creación del juego. Ignorar.
+
+bg --> Backgrounds usados en el juego. .img + .pal + .map
+sprites --> Sprites del juego. .img + .pal
+fonts --> Fuentes usadas en el juego.
+sound --> Sonidos. Formato RAW.

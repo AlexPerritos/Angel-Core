@@ -1,0 +1,28 @@
+
+//{{BLOCK(sariel)
+
+//======================================================================
+//
+//	sariel, 32x32@8, 
+//	+ palette 256 entries, not compressed
+//	+ bitmap not compressed
+//	Total size: 512 + 1024 = 1536
+//
+//	Time-stamp: 2022-12-26, 16:45:12
+//	Exported by Cearn's GBA Image Transmogrifier, v0.9.1
+//	( http://www.coranac.com/projects/#grit )
+//
+//======================================================================
+
+#ifndef GRIT_SARIEL_H
+#define GRIT_SARIEL_H
+
+#define sarielBitmapLen 1024
+extern const unsigned int sarielBitmap[256];
+
+#define sarielPalLen 512
+extern const unsigned short sarielPal[256];
+
+#endif // GRIT_SARIEL_H
+
+//}}BLOCK(sariel)
